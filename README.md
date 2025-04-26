@@ -43,7 +43,7 @@ Place the project files in your web server directory (e.g., htdocs for XAMPP).
 
 Start your Apache and MySQL services.
 
-Access the system via http://localhost/your-project-folder/.
+Access the system via http://localhost/healthmanagement system/.
 
 API Usage:
 
@@ -52,7 +52,7 @@ Access client data using a simple GET request:
 bash
 Copy
 Edit
-http://localhost/your-project-folder/api/client.php?id=CLIENT_ID
+http://localhost/healthmanagement system/api/client.php?id=CLIENT_ID
 Folder Structure
 bash
 Copy
